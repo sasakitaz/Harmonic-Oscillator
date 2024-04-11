@@ -14,6 +14,8 @@ This program also provides potential surface figure and IR spectrum
 Solving 2-dimensional oscillator program. 
 
 ## 3D-RadialAnharmonicity.py
+Ref: Reference: J. D. TALMAN, Nuclear Physics, A 141 (1970).
+
 Solving 3-dimensional oscillator program.
 
 This program has 2 potential parameter
